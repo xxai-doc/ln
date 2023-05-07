@@ -2,9 +2,9 @@
 
 * [Site Internet Mikanda ya minoko mingi](https://github.com/xxai-doc)
 
-Code ya liboso ya site internet ezali source ouverte, boyei malamu mpo na kosalisa na kosala ete libongoli ezala malamu
+Code ya liboso ya site internet ezali source ouverte, boyei malamu mpo na kosalisa na ko optimiser traduction
 
-* [code ya liboso](https://github.com/xxai-art/web)
+* [Code ya liboso](https://github.com/xxai-art/web)
 * [Ba paquets ya langue pona site na mobimba na yango](https://github.com/xxai-art/web/tree/main/i18n)
 * [Ba paquets ya langue pona ba modules ya login](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Site Internet Mikanda ya minoko mingi](https://github.com/xxai-doc)
