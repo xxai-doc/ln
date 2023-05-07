@@ -7,3 +7,4 @@ Code ya liboso ya site internet ezali source ouverte, boyei malamu mpo na kosali
 * [code ya liboso](https://github.com/xxai-art/web)
 * [Ba paquets ya langue pona site na mobimba na yango](https://github.com/xxai-art/web/tree/main/i18n)
 * [Ba paquets ya langue pona ba modules ya login](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Site Internet Mikanda ya minoko mingi](https://github.com/xxai-doc)
