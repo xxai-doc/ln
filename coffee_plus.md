@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , bakisa mwa makambo na nzela ya syntaxe ya coffeescript, tala [coffee_plus](./coffee_plus.md) .
 
-* kosakola variable
+## kosakola variable
 
 ```
 + var1, var2
 ```
 
-* étiquette ya déclaration
+## étiquette ya déclaration
 
 `:$` ezali mpo na kosalela na [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* importation ya mbangu
+## importation ya mbangu
 
 ```
 > zx/globals:
